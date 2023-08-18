@@ -25,3 +25,11 @@
 // const b = prompt("enter the value of b");
 // const sum = Number(a) + Number(b);
 // alert("total sum is " + sum);
+
+////operators
+//// &&(and) , ||(or), !(not)
+// ternary operator
+// const b = prompt("enter number");
+// {
+//   b > 4 ? alert("yes") : alert("no");
+// }
