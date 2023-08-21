@@ -33,3 +33,14 @@
 // {
 //   b > 4 ? alert("yes") : alert("no");
 // }
+////ask for gender input from the user and based on the input.
+////show if the user is male or female
+//// if male is shown , ask for salary and compare if the salary is greater than 2500
+//// if female is selected, ask for age, show in aler if the female is ready to marry
+const gender = prompt("enter your gender");
+
+console.log(gender);
+
+    gender ==="male": gender ==="female": gender ==="no";
+}
+
